@@ -1,0 +1,21 @@
+---
+title: "Homework #1"
+output: html_document
+---
+
+##I am his partner, my name is Qinwen Yang, my Github username is AngelQinwen
+##Error encounter: Forget to change the origin file name to partner.Rmd
+
+
+My interests are in **Business Analytics**, data science plays a huge role in this job field.  It could be as simple as opening up a new office supply store or a large online office supply retailer.  A data scientist could scrap together a lot of information regarding the sales of office supplies.  The data scientist could determine what items would be the best to sell, which areas would be hot selling spots, and anticipating what and where to sell in the future based on specific trends and patterns through machine learning models and visualization models. 
+
+![**Top Products and Top customers**](https://s3-ap-south-1.amazonaws.com/av-blog-media/wp-content/uploads/2017/08/23131640/01.png)
+
+```{r}
+version
+```
+
+
+Andrew Maloney
+
+GitHub account username **xazip** 
