@@ -3,8 +3,13 @@ title: "Homework #1"
 output: html_document
 ---
 
-##I am his partner, my name is Qinwen Yang, my Github username is AngelQinwen
-##Error encounter: Forget to change the origin file name to partner.Rmd
+##I am his partner:
+##Name:Qinwen Yang
+##Github username:AngelQinwen
+
+##Error encounter: I forgot to create a new file name partner.Rmd and then fix things on it instead of change things directly inside my partner's original file after clone and download it in my labtop.
+
+
 
 
 My interests are in **Business Analytics**, data science plays a huge role in this job field.  It could be as simple as opening up a new office supply store or a large online office supply retailer.  A data scientist could scrap together a lot of information regarding the sales of office supplies.  The data scientist could determine what items would be the best to sell, which areas would be hot selling spots, and anticipating what and where to sell in the future based on specific trends and patterns through machine learning models and visualization models. 
@@ -19,3 +24,11 @@ version
 Andrew Maloney
 
 GitHub account username **xazip** 
+
+
+
+##Recent update:
+###commit 4d225c33e66648cd682f883bd3fc9dbb36ff927c
+###Author: Qinwen Yang <qinweny@iastate.edu>
+###Date:   Thu Jan 24 14:13:18 2019 -0600
+
